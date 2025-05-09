@@ -54,7 +54,7 @@ Después de cada inserción, el árbol AVL se imprime en consola. A continuació
 
 5. Ingresa números enteros uno por uno. Escribe `-1` o `exit` para salir.
 
-## Video Demostrativo
+## Video del proyecto 
 
 https://youtu.be/mbd0jL6r2NQ
 
