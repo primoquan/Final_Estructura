@@ -161,7 +161,7 @@ public class AVLTree {
         buildTree(node.right, level + 2, levels);
     }
 
-    //Aqui imprimioms las conexiones entre los nodos con / y \
+    //Aqui imprimimos las conexiones entre los nodos con / y \
     private void printConnections(List<String> connections) {
         for (String conn : connections) {
             System.out.print(conn);

@@ -1,4 +1,4 @@
-# Proyecto: Árbol AVL Interactivo
+# Proyecto: Árbol AVL Examen Final de Estructura de Datos
 
 ## Descripción del Proyecto
 
@@ -56,10 +56,11 @@ Después de cada inserción, el árbol AVL se imprime en consola. A continuació
 
 ## Video Demostrativo
 
-📺 Enlace al video de YouTube: [AQUI_VA_EL_ENLACE]
+https://youtu.be/mbd0jL6r2NQ
 
 ---
 
 **Autor:** Luis Miguel Quan  
 **Curso:** Estructura de Datos  
-**Docente:** Ingeniero Brandon Chitay
+**Docente:** Ingeniero Brandon Chitay  
+**Año:** 2025
